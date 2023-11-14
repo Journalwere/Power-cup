@@ -1,1 +1,42 @@
-venv
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo/
+*.pyd/
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# User-specific stuff
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Compiled binary addons (node-gyp)
+/build/
